@@ -16,6 +16,8 @@
 		5AAC24ED2917593F001D4636 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AAC24EC2917593F001D4636 /* ViewController2.swift */; };
 		5AAC24EF29175C8E001D4636 /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AAC24EE29175C8E001D4636 /* ViewController3.swift */; };
 		5AAC24F129176079001D4636 /* ViewController4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AAC24F029176079001D4636 /* ViewController4.swift */; };
+		5AD299B8291770D0007FC424 /* ViewController5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AD299B7291770D0007FC424 /* ViewController5.swift */; };
+		5AD299BA29179362007FC424 /* ViewController6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AD299B929179362007FC424 /* ViewController6.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +32,8 @@
 		5AAC24EC2917593F001D4636 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 		5AAC24EE29175C8E001D4636 /* ViewController3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
 		5AAC24F029176079001D4636 /* ViewController4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController4.swift; sourceTree = "<group>"; };
+		5AD299B7291770D0007FC424 /* ViewController5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController5.swift; sourceTree = "<group>"; };
+		5AD299B929179362007FC424 /* ViewController6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController6.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +72,8 @@
 				5AAC24EC2917593F001D4636 /* ViewController2.swift */,
 				5AAC24EE29175C8E001D4636 /* ViewController3.swift */,
 				5AAC24F029176079001D4636 /* ViewController4.swift */,
+				5AD299B7291770D0007FC424 /* ViewController5.swift */,
+				5AD299B929179362007FC424 /* ViewController6.swift */,
 				5AAC24DE29174EB1001D4636 /* Main.storyboard */,
 				5AAC24E129174EB2001D4636 /* Assets.xcassets */,
 				5AAC24E329174EB2001D4636 /* LaunchScreen.storyboard */,
@@ -147,10 +153,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5AD299B8291770D0007FC424 /* ViewController5.swift in Sources */,
 				5AAC24EF29175C8E001D4636 /* ViewController3.swift in Sources */,
 				5AAC24F129176079001D4636 /* ViewController4.swift in Sources */,
 				5AAC24DD29174EB1001D4636 /* ViewController.swift in Sources */,
 				5AAC24ED2917593F001D4636 /* ViewController2.swift in Sources */,
+				5AD299BA29179362007FC424 /* ViewController6.swift in Sources */,
 				5AAC24D929174EB1001D4636 /* AppDelegate.swift in Sources */,
 				5AAC24DB29174EB1001D4636 /* SceneDelegate.swift in Sources */,
 			);
